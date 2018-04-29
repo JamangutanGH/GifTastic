@@ -1,0 +1,16 @@
+.gifCard {
+    height: 200px;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+img {
+    height: 150px;
+    width: auto;
+}
+
+p {
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
